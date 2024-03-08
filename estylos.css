@@ -1,0 +1,69 @@
+
+body{
+	background-color: white;
+	
+	width: 70%;
+	heith: 98%
+
+	text-align: center;
+	display: block;
+    justify-content: center;
+    align-content: center;
+    align-items: center;	
+}
+
+
+
+#matriz{
+	width: 90%;
+	heith: 90%;
+
+	text-align: center;
+	display: inline-block;
+	margin:20% 30%;
+	
+
+}
+
+
+
+#album{
+	width: 90%;
+	heith: 90%;
+
+	margin: 10px;
+
+	
+
+}
+
+
+
+
+.card{
+
+	background-color: whitesmoke;
+	border-block: solid;
+	border-color: navy;
+
+	margin: 15%;
+
+	text-align: center;
+
+	width: 98%;
+	heith: 30%
+
+
+	display: flex;
+	align-content: center;
+	align-items: center;
+
+}
+
+
+
+
+.name{
+	
+}
+
