@@ -1,1 +1,136 @@
 
+*{
+	
+	margin: 0;
+	padding: 0;
+
+	text-align: center;
+	font-size: 10px;
+
+	display: block;
+
+}
+
+
+body{
+
+	background-color: grey;
+	width: 80vw;
+
+	margin: auto;
+
+
+}
+
+#master{
+
+	margin: auto;	
+
+	width: 60%;
+	
+}
+
+
+.contenedor{
+	width: 90%;
+	height: 90%;
+
+	margin: auto;
+}
+
+
+
+.caja1{
+	
+
+	margin: 1.5em auto;
+	border: solid blue 1px;
+
+	width: 98%;
+	height: 30em;
+}
+
+
+.cabeceraC1{
+	background-color: white;
+	width: 100%;
+	height: 20%;
+
+	display: inline-block;
+
+}
+
+h2{
+	float: left;
+
+}
+
+.parrFecha{
+	float: right;
+}
+
+
+.parr2{
+	text-align: justify;
+}
+
+#fotC1{
+	width: 100%;
+	height: 60%;
+
+	background-image: url('https://thehappypuppysite.com/wp-content/uploads/2018/10/white-husky-long-740x400.jpg');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+
+.texC1{
+	background-color: white;
+	width: 100%;
+	height: 20%;
+
+	overflow: hidden;
+
+}
+
+
+/*OTRAS FOTOS
+
+*/
+
+#fotC2{
+	width: 100%;
+	height: 60%;
+
+	background-image: url('https://c.pxhere.com/photos/e6/e9/cat_skateboard_ride_pets-1059844.jpg!d');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+
+
+
+#fotC3{
+	width: 100%;
+	height: 60%;
+
+	background-image: url('https://prod-tuxhr.sfo3.cdn.digitaloceanspaces.com/punchkickinteractive/hearst-orc-tux/local-edge/theme/images/local-edge/departments/2x/department_operations.jpg');
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+
+}
+
+#fotC4{
+	width: 100%;
+	height: 60%;
+
+	background-image: url('https://viajerocasual.com/wp-content/uploads/2021/05/comidas-tipicas-de-peru-seco-de-carne.jpg');
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+
+}
+
